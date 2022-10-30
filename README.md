@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Stigl</h1>
 
-- 🔭 I’m currently working on [autohra](https://github.com/StiglCZ/AutoHra)
+- 🔭 I’m currently working on [SemiColon language](https://github.com/StiglCZ/SemiColonLang)
 
 - 🌱 I’m currently learning **docker, C, python, linux, pi pico sdk**
 
-- 👯 I’m looking to collaborate on [pogosm](https://github.com/poggingfish/pogosm)
+- 👯 I’m looking to collaborating on [pogosm](https://github.com/poggingfish/pogosm)
 
 - 👨‍💻 All of my projects are available at [stigl.pogging.fish](stigl.pogging.fish)
-
-- 📝 I regularly write articles on [stigl.pogging.fish](stigl.pogging.fish)
 
 - 💬 Ask me about **C#, CosmosOS, MSSql, Raspberry Pi, Windows**
 
 - 📫 How to reach me **realstigl@gmail.com**
 
-- ⚡ Fun fact **Im stupid**
+- ⚡ Fun fact **I dont like python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
