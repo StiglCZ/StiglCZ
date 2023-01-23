@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/czstigl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="czstigl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/jonáš-tyc-aa0266248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jonáš-tyc-aa0266248" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stiglcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stiglcz" height="30" width="40" /></a>
 <a href="https://instagram.com/stiglcz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stiglcz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/stigl cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stigl cz" height="30" width="40" /></a>
