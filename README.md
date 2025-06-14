@@ -34,6 +34,11 @@ I mostly use C#, C++ and Java
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=StiglCZ&langs_count=10&layout=compact&title_color=c9d1d9&text_color=c9d1d9&icon_color=c9d1d9&hide_border=true&bg_color=0d1117&locale=en)
 
 ### Tips:
+1)
 > Dont use python unless you are forced to(like with blender extensions)
+2)
 > Dont use javascript unless you backend is impossible to use
+3)
 > Install emacs, get coffee, and get comfortable
+4)
+> Dont use electron apps, just run it in firefox
