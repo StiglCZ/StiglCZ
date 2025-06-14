@@ -37,7 +37,7 @@ I mostly use C#, C++ and Java
 1)
 > Dont use python unless you are forced to(like with blender extensions)
 2)
-> Dont use javascript unless you backend is impossible to use
+> Dont use javascript unless the thing youre trying to do is impossible to do in backend(that is not javascript)
 3)
 > Install emacs, get coffee, and get comfortable
 4)
